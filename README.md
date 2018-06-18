@@ -7,9 +7,9 @@ da faculdade uninter.
 
 ### Como Usar:
   
-`go get github.com/isca0/guninter`
+`go get github.com/isca0/guninote`
   
-`guninter`
+`guninote`
 
 O script aguarda que você entre com suas notas de Apols, prova prática, prova discursiva e  
 ativida prática.  
@@ -21,7 +21,7 @@ resultado de sua média. :wink:
 
 O cálculo de média segue esta lógica aritimética:
   
-_Para obter o resultado da média das apols o cálculo é feito desta maneira:
+Para obter o resultado da média das apols o cálculo é feito desta maneira:
 ```
 N3 = ( APOL1 + APOL2 + APOL3 + APOL4 + APOL5)  
      ----------------------------------------  
